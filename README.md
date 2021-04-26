@@ -6,3 +6,5 @@ Github link test with GOONO 2.0
 
 ## check for update commit
 Github link test with GOONO 2.0.x
+
+GOONo will upload a note only when README updated
